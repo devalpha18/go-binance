@@ -1,7 +1,7 @@
 # Go Binance API
 
 ## Summary
-Go client for [Binance](https://www.binance.com)
+Go client for [Binance](https://www.binance.com/en)
 
 ## Installation
 ```go get github.com/pdepip/go-binance/binance```
